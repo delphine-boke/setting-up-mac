@@ -1,9 +1,0 @@
-if using VS Code IDE, instead of constantly doing command+S constantly,
-do:
-
-- go to settings
-- then Auto Save
-- select OnFocusChange.
-
-that's it.!
-
