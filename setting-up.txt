@@ -31,7 +31,7 @@ setting up your mac for use for first time:
    ~/.zshrc
    
    or command+shift+. to show hidden files.
-   . means a period.
+   . means a period. (you can do the same command to not list the hidden files after you're done).
    
    you then open the .zshrc file and edit your theme according to: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
    
