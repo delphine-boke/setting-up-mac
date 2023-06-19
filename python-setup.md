@@ -1,4 +1,4 @@
-here, you gotta have a [python installer](https://www.python.org/downloads/).
+here, you gotta have a python [installer](https://www.python.org/downloads/).
 
 to set a particular version as default, go to
 
