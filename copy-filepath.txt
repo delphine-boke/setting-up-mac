@@ -1,0 +1,7 @@
+steps:
+- go to the folder then file
+- select the file
+- press option on your keyboard
+- go to the file name displayed and right click
+- select copy<file> as PathName
+
