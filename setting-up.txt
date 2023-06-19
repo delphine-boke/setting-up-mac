@@ -1,0 +1,57 @@
+setting up your mac for use for first time:
+
+- install browsers
+   > brave, chrome, opera mini, ms edge, firefox
+   
+- download manager
+ > https://www.freedownloadmanager.org
+ 
+- install brew:
+  zsh: command not found: brew error
+  do this:
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  
+  then
+  you can echo the command to add this to path:
+  echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
+  
+  then 
+  brew doctor
+  to repair brew if needed.
+  
+ 
+ run brew -v to see the version of homebrew installed. 
+ mine is homebrew 4.0.23
+ 
+- install oh my zsh by running the command:
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  
+  to set up a theme, do this:
+  open your terminal and run:
+   ~/.zshrc
+   
+   or command+shift+. to show hidden files.
+   . means a period.
+   
+   you then open the .zshrc file and edit your theme according to: https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+   
+   e.g ZSH_THEME="robbyrussell" which is the default.
+  
+  
+ 
+- create a new github ssh key:
+  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+  
+   $ ssh-keygen -t ed25519 -C "your_email@example.com"
+   
+   secure a passphrase
+   then add $ eval "$(ssh-agent -s)" to an agent
+   
+   
+   to test your ssh connection, run:
+   $ ssh -T git@github.com
+   
+   add that ssh key to github and you're set.!
+   
+- if you're a fan of textmate,then install it using:
+   https://macromates.com
