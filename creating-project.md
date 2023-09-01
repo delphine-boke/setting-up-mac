@@ -1,4 +1,4 @@
-<img width="1440" alt="setting up new project" src="https://github.com/delphine-boke/setting-up-mac/assets/55446293/b9f0014b-f46f-436d-afc9-cff0b76e63ad">when you have worked on a project locally and would like to have it hosted on either GitLab or GitHub, then follow these steps:
+when you have worked on a project locally and would like to have it hosted on either GitLab or GitHub, then follow these steps:
 
 i. initialise your folder by running
 
