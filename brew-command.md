@@ -16,7 +16,7 @@ lastly, for good measure, you may run:
 
 ``brew doctor``
 
-to fix any issues pertanining brew.
+to fix any issues pertaining brew.
 
 make sure you know your version of brew by ``brew --version`` and use the latest version by ``brew update`` if need be.
 

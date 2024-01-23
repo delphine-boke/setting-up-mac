@@ -20,7 +20,7 @@ then
 
 and that's it.!
 
-you can comfirm by typing:
+you can confirm by typing:
 
 ``python --version``
 

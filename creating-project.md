@@ -4,7 +4,7 @@ i. initialise your folder by running
 
 ``git init . ``
 
-ii. then add contents of your folder
+ii. then add the contents of your folder
 
 ``git add . ``
 
@@ -26,9 +26,9 @@ Please make sure you have the correct access rights and the repository exists.
 
 error message.
 
-v. you would want to proceed to your profile on either GitLab or GitHub, create a new repo and copy that said url.
+v. you would want to proceed to your profile on either GitLab or GitHub, create a new repo and copy that said URL.
 
-vi. after the copying of the url, do this
+vi. after the copying of the URL, do this
 
 ``git remote add origin <link to repo>``
 

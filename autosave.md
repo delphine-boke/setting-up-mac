@@ -1,5 +1,4 @@
-if using VS Code IDE, instead of constantly doing command+S constantly,
-do:
+if using VS Code IDE, instead of constantly doing command+S do:
 
 - go to settings
 - then Auto Save

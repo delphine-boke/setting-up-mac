@@ -10,6 +10,6 @@ now open a new terminal and see that the conda environment has been deactivated.
 
 
 
-to require the conda environment on terminal, run:
+to require the conda environment on the terminal, run
 
 ``conda config --set auto_activate_base true``

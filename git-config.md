@@ -1,4 +1,4 @@
-in order to have username and email configured globally by git, do this (on your termninal, obviously):
+to have username and email configured globally by git, do this (on your terminal, obviously):
 
 ``git config --global user.name "your name"``
 
@@ -6,7 +6,7 @@ and
 
 ``git config --global user.email "my_name@example.com"``
 
-you might also want to have git autocorrect incase you misspell commmands:
+you might also want to have git autocorrect in case you misspell commands:
 
 ``git config --global help.autocorrect 20``
 

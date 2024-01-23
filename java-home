@@ -14,7 +14,7 @@ e.g, for me i used:
 
 make sure to save the file by command+S.
 
-to check whether that's the version you required, run:
+to check whether that's the version you require, run:
 
 ``java --version``
 
